@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ChatGPT-WEB
-=======
 # 说文 [chatgpt-shuowen](https://github.com/mjjh1717/chatgpt-shuowen)
 
 # ✨ 介绍
@@ -215,4 +212,3 @@ pnpm commit
 # 📑 License
 
 MIT © [mjjh](LICENSE)
->>>>>>> bfeef29 (GPT客户端代码第一次提交)
